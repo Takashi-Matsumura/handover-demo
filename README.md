@@ -16,6 +16,8 @@
 （[grillme-demo](../grillme-demo)）で、ローカルLLM向けの自前 tool calling・
 ファイルベース永続化・SSEストリーミングのパターンをそのまま踏襲している。
 
+![① 棚卸しフェーズの画面。前任者役とのgrillと、右ペインの引継書プレビュー](./docs/screenshots/inventory-phase.png)
+
 ---
 
 ## 起動方法
