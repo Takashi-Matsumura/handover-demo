@@ -1,0 +1,8 @@
+{
+  "name": "公共工事の契約・施工管理",
+  "workType": "budget-execution",
+  "organization": "〇〇地方整備局 工務課",
+  "predecessorName": "鈴木",
+  "successorName": "高橋",
+  "effectiveDateOffsetDays": 14
+}

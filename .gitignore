@@ -33,6 +33,9 @@ yarn-error.log*
 # env files (can opt-in for committing if needed)
 .env*
 
+# handover-demo: 実行時データ（デモ再現性は seeds/ + npm run seed で担保）
+/handovers/
+
 # vercel
 .vercel
 
