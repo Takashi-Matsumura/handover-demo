@@ -1,0 +1,8 @@
+{
+  "name": "補助金交付事務",
+  "workType": "budget-execution",
+  "organization": "〇〇省〇〇局補助金課",
+  "predecessorName": "田中",
+  "successorName": "佐藤",
+  "effectiveDateOffsetDays": 14
+}
